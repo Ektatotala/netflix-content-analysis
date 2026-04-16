@@ -1,4 +1,4 @@
-Netflix Content Analysis & Trend Insights
+#Netflix Content Analysis & Trend Insights
 
 ## Overview
 This project analyzes Netflix content to understand trends in movies, TV shows, genres, and global distribution.
