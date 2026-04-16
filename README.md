@@ -18,5 +18,8 @@ This project analyzes Netflix content to understand trends in movies, TV shows, 
 - netflix_analysis.ipynb → complete analysis
 - dataset.csv → dataset used
 
+## 📊 Visualization
+![Netflix Analysis](contentgrowth.png)
+
 ##  Conclusion
 This project highlights Netflix’s content strategy and global expansion trends.
