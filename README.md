@@ -1,2 +1,22 @@
-# netflix-content-analysis
-Netflix data analysis using Python to identify trends and insights
+# Netflix Content Data Analysis
+
+## Overview
+This project analyzes Netflix content to understand trends in movies, TV shows, genres, and global distribution.
+
+##  Key Insights
+- Netflix has more movies than TV shows
+- Content growth increased significantly after 2015
+- The United States dominates content production
+- Drama and International genres are most popular
+
+## Tools Used
+- Python (Pandas)
+- Matplotlib
+- Google Colab
+
+##  Files
+- netflix_analysis.ipynb → complete analysis
+- dataset.csv → dataset used
+
+##  Conclusion
+This project highlights Netflix’s content strategy and global expansion trends.
