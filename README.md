@@ -8,6 +8,7 @@ This project analyzes Netflix content to understand trends in movies, TV shows, 
 - Content growth increased significantly after 2015
 - The United States dominates content production
 - Drama and International genres are most popular
+- Analyzed content growth trends to understand Netflix’s global expansion strategy.
 
 ## Tools Used
 - Python (Pandas)
